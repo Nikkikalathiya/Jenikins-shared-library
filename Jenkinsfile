@@ -3,6 +3,5 @@
  stage('Demo') {
      echo 'Hello world'
      sayHello 'Dave'
-     buildPlugin name: 'sh'
+     buildPlugin ()
  }
-
