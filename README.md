@@ -1,1 +1,0 @@
-# Jenikins-shared-library
