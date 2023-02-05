@@ -3,6 +3,6 @@
  stage('Demo') {
      echo 'Hello world'
      sayHello 'Dave'
-     buildPlugin name: 'git'
+     buildPlugin
  }
 
